@@ -31,11 +31,11 @@ This repository offers an implementation of the UNet model tailored for semantic
 Clone the repository and navigate to the project directorty 
 
 ```bash
-git clone https://github.com/fisherman611/UNet-for-Colonoscopy-Polyp-Segmentation.git
+git clone https://github.com/fisherman611/unet-for-colonoscopy-polyp-segmentation.git
 ```
 Navigate to the project directory:
    ```bash
-   cd UNet-for-Colonoscopy-Polyp-Segmentation
+   cd unet-for-colonoscopy-polyp-segmentation
    ```
 (Optional) Install the required dependencies: 
 
